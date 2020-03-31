@@ -1,0 +1,589 @@
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+no such table: misc
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 10000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+no such table: misc
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 10000': no such table: sentiment_fts
+no such table: misc
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+no such table: misc
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 10000': no such table: sentiment_fts
+no such table: misc
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+no such table: misc
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 10000': no such table: sentiment_fts
+no such table: misc
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': no such table: sentiment_fts
+Recursive use of cursors not allowed.
+Recursive use of cursors not allowed.
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+integer division or modulo by zero
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+division by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+division by zero
+integer division or modulo by zero
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+Recursive use of cursors not allowed.
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+Recursive use of cursors not allowed.
+Recursive use of cursors not allowed.
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+division by zero
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+division by zero
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+division by zero
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+division by zero
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+min() arg is an empty sequence
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+Recursive use of cursors not allowed.
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+Recursive use of cursors not allowed.
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+Recursive use of cursors not allowed.
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+Recursive use of cursors not allowed.
+Recursive use of cursors not allowed.
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+Recursive use of cursors not allowed.
+Recursive use of cursors not allowed.
+Recursive use of cursors not allowed.
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+Recursive use of cursors not allowed.
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0

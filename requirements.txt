@@ -1,0 +1,16 @@
+tweepy
+vaderSentiment
+unidecode
+dash
+dash-renderer
+dash-html-components
+dash-core-components
+plotly
+pandas
+regex
+python-memcached
+h5py
+numpy
+Werkzeug
+textblob
+dash-table
