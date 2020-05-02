@@ -1,2 +1,2 @@
 # tweeSenAn
-help !
+Web app for live twitter sentiment analysis.
